@@ -15,8 +15,8 @@ Welcome to the **SSML Local Playground**—a simple, open-source Docker-based to
 
 1. **Clone the repository:**
    ```zsh
-   git clone https://github.com/yourusername/ssml-audio-generator.git
-   cd ssml-audio-generator
+   git clone https://github.com/abdullah-ctl/ssml-speech-to-text.git
+   cd ssml-speech-to-text
    ```
 2. **Build and start the container:**
    ```zsh
