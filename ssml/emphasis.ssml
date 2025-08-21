@@ -1,3 +1,13 @@
 <speak>
-Hello, world! Let's practice <emphasis level="strong">emphasis</emphasis> and pauses.
+Hello, world! Let's practice
+<emphasis level="strong">strong emphasis</emphasis>,
+</speak>
+
+<speak>
+<emphasis level="moderate">moderate emphasis</emphasis>,
+</speak>
+
+<speak>
+<emphasis level="reduced">reduced emphasis</emphasis>
+as well as pauses.
 </speak>
