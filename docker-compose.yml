@@ -1,0 +1,9 @@
+services:
+  tts:
+    build: .
+    container_name: local-ssml-tts
+    volumes:
+      - ./ssml:/app/ssml
+      - ./data:/app/data
+    stdin_open: true
+    tty: true
